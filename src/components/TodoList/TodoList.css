@@ -1,0 +1,8 @@
+.todo-list{
+    list-style-type: none;
+    text-transform: capitalize;
+}
+
+.todo-list-item{
+    border: 1px solid black;
+}
